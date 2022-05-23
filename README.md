@@ -1,6 +1,12 @@
-# Getting Started with Create React App
+## Deployed Website
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<button name="button" onclick="https://cryptonic-exchange.netlify.app">Click here to view the site </button>
+
+## Screen Shots
+
+![Alt text](Img/img1.png 'screen shot 1')
+
+![Alt text](Img/img2.png 'screen shot 1')
 
 ## Available Scripts
 
