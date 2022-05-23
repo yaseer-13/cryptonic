@@ -1,6 +1,6 @@
 ## Deployed Website
 
-<button name="button" onclick="https://cryptonic-exchange.netlify.app">Click here to view the site </button>
+[Click Here to View Site ](https://cryptonic-exchange.netlify.app)
 
 ## Screen Shots
 
